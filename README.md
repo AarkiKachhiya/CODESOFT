@@ -1,4 +1,4 @@
-# CODESOFT
+# CODSOFT Internship Projects
 
 Internship Projects
 
